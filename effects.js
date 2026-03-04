@@ -1,4 +1,4 @@
-let shakePower = 0;
+let shakePower = 1;
 let damageFlash = 0;
 
 function triggerShake(power = 5) {
